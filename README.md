@@ -2,7 +2,7 @@
 
 
 ## 📊 Visualizações
-[![Dashboard Principal](graphs/dash_1.png)](<iframe title="vendas_performance" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYTMyYjkxYmUtNmEwYi00MDExLWIwZWMtOTBlMTk4OTFiMWZkIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>)  
+[![Dashboard Principal](graphs/dash_1.png)](<iframe src="https://app.powerbi.com/view?r=eyJrIjoiYTMyYjkxYmUtNmEwYi00MDExLWIwZWMtOTBlMTk4OTFiMWZkIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9" ></iframe>)  
 [![Dashboard Principal](graphs/dash_2.png)]
 [![Análise Temporal](graphs/dash_3.png)]
 [![Análise Temporal](graphs/dash_4.png)]
